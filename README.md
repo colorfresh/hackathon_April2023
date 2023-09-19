@@ -1,3 +1,3 @@
-# hackathon_April2023
-Analyze data from Yelp
-https://github.com/socalrug/hackathon-2023-04
+hackathon_April2023 is a repository of the work of my team MonsterLearningSquare at the SoCal RUG Hackathon 2023-04, hosted by the Southern California R Users Group and the UCI Paul Merage School of Business. The competition lasted for an entire 24-hour over a weekend. I am delighted to collaborate with my three teammates on this data analysis project and deliver a presentation to the audience.
+We analyzed three raw data sets from Yelp after asking "how to make a successful restaurant". With R and Python, we filtered successful ones with rates and reviews, and with statistic methods, we figured out factors to be improved: the waiting time and service.
+More information about this competition can be accessed at https://github.com/socalrug/hackathon-2023-04.
